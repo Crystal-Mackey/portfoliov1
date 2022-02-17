@@ -2,8 +2,7 @@ import React, {Component} from 'react';
 
 
 
-class About extends Component {
-    render() {
+const About = () => {
         return(<div className='head' style={{width: '100%', margin: 'auto'}}>
         <div className="landing-grid">
           <div>
@@ -28,7 +27,7 @@ class About extends Component {
       </div>
     )
   }
-}
+
 
 
 export default About;

@@ -1,5 +1,5 @@
 import './App.css';
-import About from './components/about/aboutMe';
+import About from './components/AboutMe';
 
 
 

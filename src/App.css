@@ -23,6 +23,12 @@ html {
     1000px,
     400px 260px;
   animation: 50s para infinite linear;
+
+  cursor: url("components/media/mickeypointer.png"), auto;
+  }
+
+  a {
+    cursor: url("components/media/mickeyhand.png"), pointer;
   }
 
 @keyframes para {
